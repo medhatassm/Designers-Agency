@@ -1,6 +1,6 @@
 # Designer's Agency Website
 
-> ![tip]
+> [!tip]
 > its not responsive to mobile screen yet (under development)
 
 This is project is design using [#HTML], [#CSS] , [#JavaScript].
@@ -16,6 +16,12 @@ I have brought new idea on it using this website [Designers Agency](https://www.
   not solved yet
 
 ## ScreenShots
+
+![Screenshot 2024-05-10 at 10 27 59 PM](https://github.com/medhatassm/Designers-Agency/assets/146084564/ea66080e-a622-44b1-a41b-3288cdfdf8fc)
+![Screenshot 2024-05-10 at 10 28 06 PM](https://github.com/medhatassm/Designers-Agency/assets/146084564/c188d9c7-7293-48c6-98fe-286cb1345853)
+![Screenshot 2024-05-10 at 10 27 44 PM](https://github.com/medhatassm/Designers-Agency/assets/146084564/b1a2de10-2d2d-4449-8ada-0e76800179f3)
+![Screenshot 2024-05-10 at 10 27 31 PM](https://github.com/medhatassm/Designers-Agency/assets/146084564/ee4d7c88-b3ba-47ce-bb3f-1ced64f7f69e)
+
 
 ## Resource i use to make this project
 
